@@ -11,6 +11,7 @@ namespace PruebaInicial
         static void Main(string[] args)
         {
             Persona p = new Persona();
+            Empleado e = new Empleado();
         }
     }
 }
